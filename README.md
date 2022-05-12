@@ -62,6 +62,8 @@ Join the workshop at https://wustl.zoom.us/j/91316277433 from 7pm to 9pm WAT on 
 
 The workshop will be recorded and will be uploaded to YouTube and linked here following the workshop.
 
+Workshop slides can be found here: https://jenineharris.github.io/AHslides/viz2022.html
+
 ### R Resources
 
 Other places to get more instruction or information on R:
