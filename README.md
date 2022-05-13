@@ -16,8 +16,6 @@ Before the Workshop on **Sunday, June 26, 2022** complete the following steps so
   <li> Download the workshop files 
 </ul>
 
-If you are attending the live workshop, complete Steps 1 and 2 before attending. If
-
 ### Step 1: Install R and R Studio
 
 R is the software and R Studio is the IDE (Interactive Development Environment) that makes R easier to use. Install R **before** you install R Studio because R Studio will look for R during installation.
