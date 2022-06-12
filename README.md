@@ -42,7 +42,7 @@ Second, download and install R Studio:
 
 ### Step 2: Learn about the features of R Studio 
 
-Watch a short introduction to the <a href = "https://youtu.be/6bZGlHmssPI">R Studio Interface</a>.
+Watch a short introduction to the <a href = "https://youtu.be/wjFCUo7hEMo">R Studio Interface</a>.
 
 ### Step 3: Download the workshop files 
 
