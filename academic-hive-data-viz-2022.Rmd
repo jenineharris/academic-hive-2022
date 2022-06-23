@@ -199,7 +199,7 @@ globalData2019clean %>%
 
 * Fix the legend title so it is "Participant sex"
 
-```{r chunk16, eval=FALSE}
+```{r chunk17, eval=FALSE}
 
 globalData2019clean %>% 
   drop_na() %>% 
@@ -216,7 +216,7 @@ globalData2019clean %>%
 
 ## Answer to You try it!
 
-```{r chunk17}
+```{r chunk18}
 
 globalData2019clean %>% 
   drop_na(COUNTRY_SATIS) %>% 
@@ -227,7 +227,7 @@ globalData2019clean %>%
        title = "Country satisfaction by sex according to 5001 participants\nin a 2019 survey of people from Kenya, Nigeria, South Africa,\nand the United States.", 
        fill = "Participant sex") +
   scale_fill_brewer(palette = "Paired") +
-  theme_light() 
+  theme_minimal() 
 
 ```
 
