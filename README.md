@@ -1,6 +1,6 @@
 <img src = "https://academichive.com/wp-content/uploads/2017/01/HIVE-001-300x142.png"> 
 
-# 2022 Introduction to Data Visualization in R
+# 2022 Data Visualization in R: How to do it like a genius!
 
 ### Workshop Instructions
 
