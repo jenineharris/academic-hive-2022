@@ -58,7 +58,7 @@ Download the participant files and save them together in the same folder on your
 
 Join the workshop at https://wustl.zoom.us/j/91316277433 from 7pm to 9pm WAT on June 26, 2022.
 
-The workshop will be recorded and will be uploaded to YouTube and linked here following the workshop.
+The workshop video is at https://youtu.be/JMKWiBglws4.
 
 Workshop slides can be found here: https://jenineharris.github.io/AHslides/viz2022.html
 
